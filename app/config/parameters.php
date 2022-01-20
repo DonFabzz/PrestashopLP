@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '',
+    'database_name' => 'sigfab',
+    'database_user' => 'sigfab',
+    'database_password' => 'WuBsiqVArCipw3s',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'TBrwgownt42T8Jv1CkrtWE0GxAtasc0zYT5BU8JmuFmxjo1IPBI126pEPJrSx3nO',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-10-07',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'h6DMzyZw27hIPPuad5Wmv7AnauXgBWr3Fk5eZIO2Tq1jfINLBJw2uB5Ga4Fn3LFW',
+    'cookie_iv' => 'Xn2gciRhemDiVpVKkSKsRjLCdPVfgE6S',
+    'new_cookie_key' => 'def00000beea882666b05bb4de049cfc50c2edcf172c7266737cf5b26a41af49394c47eae3fd33685b00be5972cbccd06a0f36f6c6bb7231faf65749441a08e0d6be85a9',
+  ),
+);
